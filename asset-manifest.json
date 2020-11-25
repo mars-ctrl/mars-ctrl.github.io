@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/max-buy/static/css/main.27453323.chunk.css",
+    "main.js": "/max-buy/static/js/main.2d679e9a.chunk.js",
+    "main.js.map": "/max-buy/static/js/main.2d679e9a.chunk.js.map",
+    "runtime-main.js": "/max-buy/static/js/runtime-main.519ddc45.js",
+    "runtime-main.js.map": "/max-buy/static/js/runtime-main.519ddc45.js.map",
+    "static/js/2.d707bd8d.chunk.js": "/max-buy/static/js/2.d707bd8d.chunk.js",
+    "static/js/2.d707bd8d.chunk.js.map": "/max-buy/static/js/2.d707bd8d.chunk.js.map",
+    "index.html": "/max-buy/index.html",
+    "static/css/main.27453323.chunk.css.map": "/max-buy/static/css/main.27453323.chunk.css.map",
+    "static/js/2.d707bd8d.chunk.js.LICENSE.txt": "/max-buy/static/js/2.d707bd8d.chunk.js.LICENSE.txt",
+    "static/media/default_profile.a9f1fe31.svg": "/max-buy/static/media/default_profile.a9f1fe31.svg",
+    "static/media/loginbanner.b2b6d347.jpg": "/max-buy/static/media/loginbanner.b2b6d347.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.519ddc45.js",
+    "static/js/2.d707bd8d.chunk.js",
+    "static/css/main.27453323.chunk.css",
+    "static/js/main.2d679e9a.chunk.js"
+  ]
+}
